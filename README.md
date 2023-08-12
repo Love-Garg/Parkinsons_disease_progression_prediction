@@ -24,8 +24,8 @@ The analysis includes the following steps:
 **4. Results:**
 The trained model achieved the following results on the test set:
 
--Mean Squared Error (MSE): 60.20
--Average sMAPE : 94.42
+- Mean Squared Error (MSE): 60.20
+- Average sMAPE : 94.42
 
 
 These metrics provide insight into the accuracy and variance explained by the model. Interpretation of these values indicates how well the model predicts Parkinson's disease progression based on the provided features.
